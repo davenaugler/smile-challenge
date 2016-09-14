@@ -7,14 +7,17 @@
 .two div{
     text-align: center;
     border: 1px solid black;
+    color: lightseagreen;
 }
 
 .three div{
     text-align: center;
     border: 1px solid black;
+    color: lightskyblue;
 }
 
 .four div{
     text-align: center;
     border: 1px solid black;
+    color: lightgreen;
 }
