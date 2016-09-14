@@ -1,5 +1,4 @@
-.one{
+.one div{
     text-align: center;
-    border-style: solid;
-    border-color: black;
+    border: 1px solid black;
 }
