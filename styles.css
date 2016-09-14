@@ -1,4 +1,20 @@
 .one div{
     text-align: center;
     border: 1px solid black;
+    color: lightcoral;
+}
+
+.two div{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.three div{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.four div{
+    text-align: center;
+    border: 1px solid black;
 }
